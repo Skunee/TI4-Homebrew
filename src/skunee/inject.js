@@ -10,6 +10,7 @@ const nsidToTemplateId = {
   "card.promissory:homebrew.skunee/0": "7AF05E6634E3448E8B2F104A2F1542C7",
   "card.technology:homebrew.skunee/0": "74EC4B26AB184002BD59D720628DF29F",
    "token:homebrew.skunee/lunartiks": "0BCEABB59CFE4910A3F3842E2B300E18",
+   "card.alliance:homebrew.skunee/lunartiks": "EAFFFA55D11946F9B005E05421A3051E"
 };
 
 const localeStrings = {
